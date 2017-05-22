@@ -1,0 +1,10 @@
+.avataravatar {
+  height: 80px;
+}
+
+.avatar img {
+  border-radius: 50%;
+  height: 80px;
+  display: inline-block;
+  margin-top: -24px;
+}

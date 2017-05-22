@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 import '../css/Footer.css'
 
-class Header extends Component {
+class Footer extends Component {
   render() {
     return (
       <footer className="expanded row">
@@ -12,4 +12,4 @@ class Header extends Component {
   }
 }
 
-export default Header
+export default Footer
