@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import '.../css/AuthorInfo.css'
+import '../../css/AuthorInfo.css'
 
 
 class AuthorName extends Component {

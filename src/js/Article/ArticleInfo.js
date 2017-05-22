@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import '.../css/AuthorInfo.css'
+import '../../css/AuthorInfo.css'
 import AuthorName from './AuthorName'
 import ArticleDate from './ArticleDate'
 

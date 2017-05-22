@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import '.../css/Avatar.css'
+import '../../css/Avatar.css'
 
 
 class Avatar extends Component {
