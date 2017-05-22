@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import Header from './Header'
 import Footer from './Footer'
-import ArticleHeader from './ArticleHeader'
-import Avatar from './Avatar'
+import ArticleHeader from './Article/ArticleHeader'
+import Article from './Article/Article'
 import '../css/App.css';
 
 class App extends Component {
@@ -13,8 +13,10 @@ class App extends Component {
 
         <main className="expanded row">
           <div className="large-8 medium-12 columns article">
-            <ArticleHeader />
-            <Avatar />
+
+            //article goes here
+            <Article />
+
             <section className="article-body">
               <p><span className="article-start gold">E</span>psum factorial non deposit quid pro quo hic escorol. Olypian quarrels et gorilla congolium sic ad nauseum. Souvlaki ignitus carborundum e pluribus unum. Defacto lingo est igpay atinlay. Marquee selectus non provisio incongruous feline nolo contendre. Gratuitous octopus niacin, sodium glutimate. Quote meon an estimate et non interruptus stadium.</p>
 

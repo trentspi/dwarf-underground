@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import '../css/ArticleHeader.css'
+import '.../css/ArticleHeader.css'
 
 class ArticleHeader extends Component {
   render() {
