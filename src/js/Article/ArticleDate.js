@@ -1,5 +1,5 @@
-import React, { Component } from 'react'
-import '../../css/AuthorInfo.css'
+import React, { Component } from 'react';
+import '../../css/AuthorInfo.css';
 
 
 class ArticleDate extends Component {
@@ -10,4 +10,4 @@ class ArticleDate extends Component {
   }
 }
 
-export default ArticleDate
+export default ArticleDate;

@@ -1,5 +1,5 @@
-import React, { Component } from 'react'
-import '../../css/AuthorInfo.css'
+import React, { Component } from 'react';
+import '../../css/AuthorInfo.css';
 
 
 class AuthorName extends Component {
@@ -10,4 +10,4 @@ class AuthorName extends Component {
   }
 }
 
-export default AuthorName
+export default AuthorName;

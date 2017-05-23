@@ -1,5 +1,5 @@
-import React, { Component } from 'react'
-import '../../css/ArticleHeader.css'
+import React, { Component } from 'react';
+import '../../css/ArticleHeader.css';
 
 class ArticleHeader extends Component {
   render() {
@@ -9,4 +9,4 @@ class ArticleHeader extends Component {
   }
 }
 
-export default ArticleHeader
+export default ArticleHeader;
