@@ -7,7 +7,7 @@ import ArticleLinks from './ArticleLinks';
 class Article extends Component {
   render() {
     return (
-      <div>
+      <div className="large-8 medium-12 columns article">
         <ArticleHeader />
         <ArticleInfo />
         <ArticleBody />
